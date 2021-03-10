@@ -1,2 +1,2 @@
 # lb-service-haproxy
-Enable ALPN protocol to H2
+Enable ALPN protocol to H2.
